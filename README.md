@@ -1,1 +1,1 @@
-# pano
+https://xmuni.github.io/pano/
